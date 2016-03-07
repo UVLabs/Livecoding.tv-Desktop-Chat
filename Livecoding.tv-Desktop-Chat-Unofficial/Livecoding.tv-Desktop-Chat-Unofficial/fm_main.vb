@@ -1,4 +1,15 @@
 ﻿Public Class fm_main
+
+
+    'App Icon License: Attribution-ShareAlike 3.0 Unported
+
+    'Icon from :  http://www.iconfinder.com
+
+    'https://www.iconfinder.com/icons/531910/bubble_bubbles_chat_communication_dialogue_speech_talk_icon
+
+    'No changes were made to icon.
+
+
     WithEvents browser As eWebbrowser
     Private Sub fm_main_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
